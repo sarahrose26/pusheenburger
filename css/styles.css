@@ -2,6 +2,14 @@
   color: lightblue;
 }
 
+.images {
+  text-align:center;
+}
+
+.header-title {
+  text-align:center;
+}
+
 nav h1 {
   width: 40%;
   float: left;
